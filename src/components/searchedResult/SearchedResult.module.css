@@ -1,0 +1,16 @@
+.searchedResult {
+    width: 50%;
+    margin: 15px auto;
+    background-color: white;
+    border-radius: 30px;
+    padding: 30px;
+    color: rgb(5, 68, 68);
+    height: 300px;
+}
+
+.searchedResultTrue {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
