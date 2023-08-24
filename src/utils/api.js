@@ -3,5 +3,4 @@ async function getWeather(city) {
     return res
 }
 
-
 export { getWeather }

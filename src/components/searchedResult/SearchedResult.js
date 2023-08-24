@@ -13,7 +13,7 @@ export default function SearchedResult({ weatherData }) {
                     <h1>City: {weatherData.location.name}</h1>
                     <h3>Country: {weatherData.location.country}</h3>
                     <p>Local time: {weatherData.location.localtime}</p>
-                    <p>Տemperature: {weatherData.current.temp_c}°C </p>
+                    <p>Temperature: {weatherData.current.temp_c}°C </p>
                     <p>Wind speed: {weatherData.current.vis_km}km/h</p>
                     <p></p>
                 </div>
